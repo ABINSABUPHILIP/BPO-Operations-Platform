@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import NavigationBar from './components/NavigationBar';
 import DashboardLayout from './pages/Dashboard';
+import 'antd/dist/antd.min.css';
 
 function App() {
   return (
