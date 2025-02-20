@@ -17,6 +17,7 @@
     "mongodb": "^6.13.0",
     "mongoose": "^8.10.1",
     "passport": "^0.7.0",
-    "pg": "^8.13.3"
+    "pg": "^8.13.3",
+    "react-tesseract": "^1.0.0"
   }
 }
